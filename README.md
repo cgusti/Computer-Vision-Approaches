@@ -4,5 +4,5 @@ Repository containing .ipynb script for training and fine tuning InceptionV3 on 
 
 I present  an  approach  to classify food images using SOTA computer vision systems. The goal of this paper is to train and fine tune a deep learning SOTA CNN model with >85% accuracy for top-1 for the test set on the Food-101 dataset, leading to an overall test accuracy of 85%
 
-All required packages can be found within the code
+All required packages can be found within the code. I have also uploaded a detailed documentation of the experiments and results I conducted for this project.
 
